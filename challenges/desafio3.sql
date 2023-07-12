@@ -6,4 +6,5 @@ FROM pessoa_usuaria pu
 	INNER JOIN historico_reproducoes hr ON pu.pessoa_usuaria_id = hr.pessoa_usuaria_id
     INNER JOIN cancoes c ON c.cancao_id = hr.cancao_id
 GROUP BY pessoa_usuaria
-ORDER BY pessoa_usuaria;
+ORDER BY pessoa_usuaria
+LIMIT 2;
