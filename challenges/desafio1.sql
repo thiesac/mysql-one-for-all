@@ -95,7 +95,7 @@ INSERT INTO cancoes (cancao_id, cancoes, duracao_segundos, album_id)
 (7, 'O Medo de Amar é o Medo de Ser Livre', 207, 5),
 (8, 'Samba em Paris', 267, 6),
 (9, 'The Bards Song', 244, 7),
-(10, 'Feeling Good"', 100, 8);
+(10, 'Feeling Good', 100, 8);
 
 INSERT INTO pessoa_usuaria (pessoa_usuaria_id, nome_pessoa_usuaria, idade, plano_id, data_assinatura) 
 VALUES 
