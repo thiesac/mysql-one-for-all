@@ -1,6 +1,5 @@
 # MySQL One For All Project
 
-![MySQL Logo](https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/1280px-MySQL.svg.png)
 
 The MySQL One For All Project is a comprehensive learning and practice repository for MySQL, designed to consolidate key database concepts, from data modeling to querying and database administration.
 
